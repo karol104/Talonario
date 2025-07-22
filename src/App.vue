@@ -1038,7 +1038,7 @@
     >
       <div class="container text-center">
         <p class="mb-0">
-          Copyright ©2024 GlowRifas. Todos los derechos reservados.
+          Copyright ©2025 GlowRifas. Todos los derechos reservados.
         </p>
       </div>
     </footer>
