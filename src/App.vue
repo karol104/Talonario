@@ -1852,6 +1852,7 @@ const colorBoleta = computed(() => {
 body {
   min-height: 100vh;
   margin: 0;
+  overflow: hidden; 
 }
 
 .contenedorPrincipal {
@@ -1864,6 +1865,8 @@ body {
 .encabezado {
   text-align: center;
   margin-bottom: 30px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 30px;
 }
 
 .titulo {
@@ -2092,6 +2095,8 @@ select.form-control:focus {
   padding: 0;
   left: 0;
   right: 0;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
 }
 
 @keyframes fadeIn {
